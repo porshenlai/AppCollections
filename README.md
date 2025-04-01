@@ -1,1 +1,1 @@
-# AppCollections
+# Application Collections
